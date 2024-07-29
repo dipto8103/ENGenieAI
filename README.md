@@ -54,7 +54,7 @@ ENGenieAI is an interactive AI tutor designed to assist engineering students by 
 
 3. **Settings**:
     - **Patch Notes**: View the latest updates and changes.
-    - **Support**: Contact support at `support@example.com`.
+    - **Support**: Contact support at `engenieai.query@gmail.com`.
 
 4. **Chat History**:
     - View past interactions in the sidebar under "History".
